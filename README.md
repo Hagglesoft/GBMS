@@ -7,6 +7,9 @@ A Diagnostic Management Application is a software solution designed to streamlin
 
 
 
+   
+    
+    
     Bill Management: 
         Create patient bill with assign different tests/services name. Select physician name & patient information with Name, Phone no, Age & Sex. Click commission                                 option type physician or others or no commission. It is very much important Bill ID & Bill date. Tests/services amount are automatically calculated.  Tests/services                       amount come from Code Module which is assign earlier. You can collect many interfaces & reports like waiting bill, paid bill, due bill, physician & others wise bill,                     tests/services wise bill, patient name/phone wise bill etc.
     
