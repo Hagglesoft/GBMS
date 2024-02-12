@@ -3,18 +3,22 @@ Description For Diagnostic Management App
 A Diagnostic Management Application is a software solution designed to streamline and enhance the diagnostic processes in healthcare settings. It can be used in hospitals, clinics, and laboratories to manage patient information, test orders, results, and much more. Here's a brief demo of some of the key features you might find in such an application:
 
     User Authentication and Access Control: The application starts with a secure login system. Different users (doctors, lab technicians, administrators) have varying levels of access to ensure data privacy and security.
-
-
-
-
    
     
     
     Bill Management: 
-        Create patient bill with assign different tests/services name. Select physician name & patient information with Name, Phone no, Age & Sex. Click commission                                 option type physician or others or no commission. It is very much important Bill ID & Bill date. Tests/services amount are automatically calculated.  Tests/services                       amount come from Code Module which is assign earlier. You can collect many interfaces & reports like waiting bill, paid bill, due bill, physician & others wise bill,                     tests/services wise bill, patient name/phone wise bill etc.
+        Create patient bill with assign different tests/services name. Select physician name & patient information with Name, 
+        Phone no, Age & Sex. Click commission option type physician or others or no commission. It is very much important 
+        Bill ID & Bill date. Tests/services amount are automatically calculated.  Tests/services amount come from Code Module 
+        which is assign earlier. You can collect many interfaces & reports like waiting bill, paid bill, due bill, 
+        physician & others wise bill,tests/services wise bill, patient name/phone wise bill etc.
     
     Payment Receipt: 
-        Tests/services amount can receipt from two location. One is bill creation & other is payment receipt interface.  You can calculate total bill amount, discount                             amount,paid amount & commission amount. You can receipt multiple times bill amount.Commission Management: Two types of commission here physician & others person. App                     automatically calculate the commission amount. You can define the bill of commission amount.You can declare less amount & add one or multiple bill ID in one bill.                         Waiting commission bill both physician & others wise you can collect. 
+        Tests/services amount can receipt from two location. One is bill creation & other is payment receipt interface.
+        You can calculate total bill amount, discount amount,paid amount & commission amount. You can receipt multiple 
+        times bill amount.Commission Management: Two types of commission here physician & others person. App automatically 
+        calculate the commission amount. You can define the bill of commission amount.You can declare less amount & add one 
+        or multiple bill ID in one bill.Waiting commission bill both physician & others wise you can collect. 
         
         Pathological Report: 
             You can entry & delivery some pathological report. You can choose different format like PDF, Word, Report etc.
@@ -22,8 +26,8 @@ A Diagnostic Management Application is a software solution designed to streamlin
     Physician Payment: 
         You can manage physician payment related all issue. View bill report.
         Account Management: You can manage all general & medical account in account module. You can define expense ledger, 
-        others income ledger & Salary declaration. You can calculate employee related expense like salary, bonus & others benefit.
-        There are three types of account,receipt ledger, expense ledger & balance sheet
+        others income ledger & Salary declaration. You can calculate employee related expense like salary, 
+        bonus & others benefit.There are three types of account,receipt ledger, expense ledger & balance sheet
 
 
     Test Result Entry:
