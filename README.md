@@ -6,45 +6,38 @@ Description For General Business / POS Management App
 
 A General Business / POS system is the brick-and-mortar of your business. Inventory management, Stock management, Sales management, invoicing, reporting, General account, Profit & loss management, brand marketing, employee training and customer relationship management are some of the many needs that shape your business. This system should be using multiple Enterprise & multiple Unit system.
 
-Inventory Management
+Inventory Management:
 A fully-equipped, inventory management system increases business profitability. Track and manage your stock and supply levels, add and update taxes, check order status and process hassle-free returns. Categorize products based on specific characteristics, add descriptions and monitor sales and more to manage the supply-chain network efficiently.
-Store Management
 
+Store Management:
 Integrate your store operations for better visibility and enhanced user experience. 
 Add products and suppliers to ensure catalog availability for all outlets. 
 
-Sales and Marketing Management
-
+Sales and Marketing Management:
 Maximize sales and grow the business with a solid marketing strategy. Use methods like
 suggestive selling, and receipts to display merchandise. Feature top-selling items to attract customers. Set up products at the counter to draw attention toward frequently sold items.
 
-
-Items and Service Management
-
+Items and Service Management:
 Create and update groups and items. Assign unit system for items. Use multiple unit system of this software.
 
-Payment Management
-
+Payment Management:
 Streamline your finances with a comprehensive payment and cash/Bank management plan. Conduct cash/Bank transactions,
 print and share receipts, send invoices, manage cash/Bank inflows and outflows 
 and enable customers to add discounts during the final checkout.
 
-Reporting and Insights
-
+Reporting and Insights:
 These software analytics offer a treasure trove of insights into business operations using real-time data from various company sources like employee activity, transaction history, sales volume, customer information, general account and more. Customizable detailed and summary reports help make informed business 
 decisions and improve services.
 
 
-General Account Management
-
+General Account Management:
 Create all kinds of expenditure & others related income bill. Create salary bill. Show report & view income ledger, payment ledger & balance sheet day wise, month wise or year wise.
 
-Profit & lose Management
-
+Profit & lose Management:
 Automatically calculated profit & loss of your organization. View total invest, total stock, total vendor due, total sales, total supplier due & profit %
 
 
-Role of Software
+Role of Software:
 
 1.  The system supports customers purchased receipt. 
 
